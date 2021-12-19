@@ -197,6 +197,11 @@ The example above shows the config for two preset notifications: 'user-updated' 
 
 ## Use in Vue js/ Javascript solution
 
+```html
+flashBox('error', 'An error occurred while processing your request.');
+flashBox('success', 'The user has been updated successfully.');
+```
+
 ## Change log
 
 Please see the [changelog](changelog.md) for more information on what has changed recently.

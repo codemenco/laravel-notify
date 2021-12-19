@@ -1,12 +1,12 @@
 {
   "name": "codemenco/laravel-notify",
-  "description": "Flexible flash notifications for Laravel",
+  "description": "Flexible flash notifications for Laravel with Javascript and Vue usage",
   "license": "MIT",
   "authors": [
     {
       "name": "Codemenco",
       "email": "codemenco@gmail.com",
-      "homepage": "https://codemen.,e",
+      "homepage": "https://codemen.me",
       "role"    : "Developer"
     }
   ],

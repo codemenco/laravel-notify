@@ -36,7 +36,7 @@ Then add the service provider to `config/app.php`. In Laravel versions 5.5 and b
 ```php
 'providers' => [
     ...
-    codemenco\Notify\LaravelNotifyServiceProvider::class
+    Codemenco\Notify\LaravelNotifyServiceProvider::class
     ...
 ];
 ```

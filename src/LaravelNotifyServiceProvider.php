@@ -51,7 +51,7 @@ class LaravelNotifyServiceProvider extends ServiceProvider
     public function registerPublishables(): void
     {
         $this->publishes([
-            __DIR__.'/../public' => public_path('vendor/mckenziearts/laravel-notify'),
+            __DIR__.'/../public' => public_path('vendor/codemenco/laravel-notify'),
         ], 'notify-assets');
 
         $this->publishes([
